@@ -2,6 +2,8 @@
 
 I'm an aspiring software developer based in 🌁 Montreal. I work on some side projects and run a nonprofit called [Kurius][kurius].
 
+<img align="right" src="https://media.giphy.com/media/xTiTnA6KByRzAnnEwE/giphy.gif" width="200"/>
+
 ### Connect with me
 
 [<img align="left" alt="stevengong.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
