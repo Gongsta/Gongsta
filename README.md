@@ -35,6 +35,11 @@ I'm an aspiring software developer based in 🌁 Montreal. I work on some side p
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Gave Up.](https://medium.com/@gongster/i-gave-up-eeaa6158b67c?source=rss-1e9dd8b9d5fb------2)
+- [A detailed look at the state of Flood Forecasting in Climate Science and the integration of…](https://medium.com/@gongster/a-detailed-look-at-the-state-of-flood-forecasting-in-climate-science-and-the-integration-of-912d31b460c4?source=rss-1e9dd8b9d5fb------2)
+- [My Relationship with English](https://medium.com/@gongster/my-relationship-with-english-6050f30d5865?source=rss-1e9dd8b9d5fb------2)
+- [Introduction to Reinforcement Learning and Q-Learning with Flappy Bird](https://levelup.gitconnected.com/introduction-to-reinforcement-learning-and-q-learning-with-flappy-bird-aa1f40614532?source=rss-1e9dd8b9d5fb------2)
+- [Printed vs. Digital books](https://medium.com/@gongster/printed-vs-digital-books-49170a7371c6?source=rss-1e9dd8b9d5fb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@gongster)
