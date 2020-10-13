@@ -11,7 +11,7 @@ I'm an aspiring software developer based in 🌁 Montreal. I work on some side p
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="25" height="25" />
@@ -27,8 +27,6 @@ I'm an aspiring software developer based in 🌁 Montreal. I work on some side p
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
-
-<br />
 
 ---
 
