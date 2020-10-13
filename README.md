@@ -1,8 +1,8 @@
-### Hi there, I'm [Steven][website] 👋
+## Hi there, I'm [Steven][website] 👋
 
-I'm an aspiring software developer based in 🌁 Montreal. I work on some side projects and run a nonprofit called [Kurius][kurius]
+I'm an aspiring software developer based in 🌁 Montreal. I work on some side projects and run a nonprofit called [Kurius][kurius].
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="stevengong.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@gongster | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -12,7 +12,7 @@ I'm an aspiring software developer based in 🌁 Montreal. I work on some side p
 <br />
 
 ### Languages and Tools:
-
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" />
@@ -26,8 +26,8 @@ I'm an aspiring software developer based in 🌁 Montreal. I work on some side p
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+</p>
 
-<br />
 <br />
 
 ---
