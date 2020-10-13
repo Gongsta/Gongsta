@@ -48,9 +48,9 @@ I'm an aspiring software developer based in 🌁 Montreal. I work on some side p
 
 <details>
   <summary>GitHub Stats</summary>
-  <div style="text-align:center">
+  <p align="center">
     <img alt="Gongsta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gongsta&show_icons=true&hide_border=true" />
-  </div>
+  </p>
 
 </details>
 
