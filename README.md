@@ -6,10 +6,10 @@ I'm an aspiring software developer based in 🌁 Montreal. I work on some side p
 
 ### Connect with me
 
-[<img align="left" alt="stevengong.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="@gongster | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Steven Gong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Steven Gong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="stevengong.me" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="@gongster | Medium" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Steven Gong | LinkedIn" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Steven Gong | Instagram" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -48,8 +48,9 @@ I'm an aspiring software developer based in 🌁 Montreal. I work on some side p
 
 <details>
   <summary>GitHub Stats</summary>
-
-  <img align="left" alt="Gongsta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gongsta&show_icons=true&hide_border=true" />
+  <div style="text-align:center">
+    <img alt="Gongsta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gongsta&show_icons=true&hide_border=true" />
+  </div>
 
 </details>
 
