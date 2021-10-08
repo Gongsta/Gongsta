@@ -2,7 +2,7 @@
 
 ## Hi there, I'm [Steven][website] 👋
 
-I'm an aspiring software developer based in 🌁 Montreal. I work on some side projects and run a nonprofit called [Kurius][kurius].
+I'm a Software Engineering student at the University of Waterloo. I work on some side projects and run a nonprofit called [Kurius][kurius]. I'm interested in product management and software (learning firmware, AI and data structures and algorithms at the moment). 
 
 ### Connect with me
 
