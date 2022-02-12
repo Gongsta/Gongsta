@@ -1,22 +1,23 @@
 <img align="right" src="https://media.giphy.com/media/xTiTnA6KByRzAnnEwE/giphy.gif" width="200"/>
 
 ## Hi there, I'm [Steven][website] 👋
-I'm a Software Engineering student at the University of Waterloo who really enjoys solving difficult engineering problems at the intersections of software, AI and robotics. Currently, I am heavily involved in the [University of Waterloo Robotics Team][UWRT] that is competing in the University Rover Challenge, as well as the [Waterloo Aviation Robotics Team][WARG] building autonomous drones. 
+I'm a Software Engineering student at the University of Waterloo who really enjoys solving difficult engineering problems at the intersections of **software, AI and robotics**. 
 
-I'm also the founder & Chair of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students.
+- Currently, I am heavily involved in the [University of Waterloo Robotics Team][UWRT] that is competing in the University Rover Challenge, as well as the [Waterloo Aviation Robotics Team][WARG] building **autonomous drones**. 
+- I'm also the founder & Chair of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students.
 
 ### Fun Facts
 - I recently picked up a [YouTube Channel](https://www.youtube.com/stevengongg) where I made several of my ridiculously useless engineering ideas come to reality. They're made mostly out of entertainment value, but I produce them for the same reason I fell in love with engineering and coding in the first place: the magical feeling of [making ideas come to reality](https://docs.google.com/document/d/1Q_hAr2AxWA0j70oE5lXOOKsSky58pvikEqjYzZjDK44/edit?usp=sharing)
 - I obtained my glider pilot license at age 15 (the summer that I fell in love with aviation)
 - I really enjoy playing badminton
 
-### Connect with me
-<div>I love meeting people and striking up new conversations. Feel free to connect with me and invite me to a coffee chat :))</div>
+### Connect with me 
 [<img align="left" alt="Steven Gong | LinkedIn" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stevengong.me" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@gongster | Medium" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Steven Gong | Instagram" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+I love meeting people and striking up new conversations. Feel free to connect with me and invite me to a coffee chat :))
 <br />
 
 ### Languages and Tools
