@@ -2,8 +2,7 @@
 
 ## Hi there, I'm [Steven][website] 👋
 I'm a Software Engineering student at the University of Waterloo who really enjoys solving difficult engineering problems at the intersections of **software, AI and robotics**. 
-
-- Currently, I am heavily involved in the [University of Waterloo Robotics Team][UWRT] that is competing in the University Rover Challenge, as well as the [Waterloo Aviation Robotics Team][WARG] building **autonomous drones**. 
+- Currently, I am heavily involved in the [UWaterloo Robotics Team][UWRT] building **next-generation Mars rovers** as well as the [Waterloo Aviation Robotics Team][WARG] building **autonomous drones**. 
 - I'm also the founder & Chair of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students.
 
 ### Fun Facts
@@ -16,8 +15,7 @@ I'm a Software Engineering student at the University of Waterloo who really enjo
 [<img align="left" alt="stevengong.me" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@gongster | Medium" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Steven Gong | Instagram" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-I love meeting people and striking up new conversations. Feel free to connect with me and invite me to a coffee chat :))
+I love meeting people and striking up new conversations. I encourage you to invite me to a coffee chat :))
 <br />
 
 ### Languages and Tools
