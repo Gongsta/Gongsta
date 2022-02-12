@@ -6,7 +6,7 @@ I'm a Software Engineering student at the University of Waterloo who really enjo
 - I'm also the founder of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students
 
 ### Fun Facts
-- I recently picked up a [YouTube Channel](https://www.youtube.com/stevengongg) where I made several of my ridiculously useless engineering ideas come to reality. I have a lot of fun making these inventions even though they serve no practical applications
+- I recently picked up a [YouTube Channel](https://www.youtube.com/stevengongg) where I made several of my ridiculously useless engineering ideas come to reality; I have a lot of fun making these inventions even though they serve no practical applications
 - I enjoy writing and reflecting from time to time on [Medium](https://gongster.medium.com/)
 - I obtained my glider pilot license at age 15 (the summer that I fell in love with aviation)
 - I really enjoy playing badminton (was varsity level in high school)
