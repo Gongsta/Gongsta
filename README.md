@@ -3,7 +3,7 @@
 ## Hi there, I'm [Steven][website] 👋
 I'm a Software Engineering student at the University of Waterloo who really enjoys solving difficult engineering problems at the intersections of **software, AI and robotics**. 
 - Currently, I am heavily involved in the [UWaterloo Robotics Team][UWRT] building **next-generation Mars rovers** as well as the [Waterloo Aviation Robotics Team][WARG] building **autonomous drones**
-- I'm also the founder of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students
+- I'm the founder of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students
 
 ### Fun Facts
 - I recently picked up a [YouTube Channel](https://www.youtube.com/stevengongg) where I made several of my ridiculously useless engineering ideas come to reality; I have a lot of fun making these inventions even though they serve no practical applications
