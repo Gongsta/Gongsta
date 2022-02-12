@@ -3,12 +3,13 @@
 ## Hi there, I'm [Steven][website] 👋
 I'm a Software Engineering student at the University of Waterloo who really enjoys solving difficult engineering problems at the intersections of **software, AI and robotics**. 
 - Currently, I am heavily involved in the [UWaterloo Robotics Team][UWRT] building **next-generation Mars rovers** as well as the [Waterloo Aviation Robotics Team][WARG] building **autonomous drones**. 
-- I'm also the founder & Chair of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students.
+- I'm also the founder of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students.
 
 ### Fun Facts
-- I recently picked up a [YouTube Channel](https://www.youtube.com/stevengongg) where I made several of my ridiculously useless engineering ideas come to reality. They're made mostly out of entertainment value, but I produce them for the same reason I fell in love with engineering and coding in the first place: the magical feeling of [making ideas come to reality](https://docs.google.com/document/d/1Q_hAr2AxWA0j70oE5lXOOKsSky58pvikEqjYzZjDK44/edit?usp=sharing)
+- I recently picked up a [YouTube Channel](https://www.youtube.com/stevengongg) where I made several of my ridiculously useless engineering ideas come to reality. I have a lot of fun making these inventions even though they serve no practical applications
+- I enjoy writing and reflecting from time to time on [Medium](https://gongster.medium.com/)
 - I obtained my glider pilot license at age 15 (the summer that I fell in love with aviation)
-- I really enjoy playing badminton
+- I really enjoy playing badminton (was varsity level in high school)
 
 ### Connect with me 
 [<img align="left" alt="Steven Gong | LinkedIn" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
