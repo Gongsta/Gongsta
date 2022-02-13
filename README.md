@@ -6,7 +6,6 @@ I'm a Software Engineering student at the University of Waterloo who really enjo
 - I'm the founder of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students
 
 ### Fun Facts
-- I recently picked up a [YouTube Channel](https://www.youtube.com/stevengongg) where I made several of my ridiculously useless engineering ideas come to reality; I have a lot of fun making these inventions even though they serve no practical applications
 - I enjoy writing and reflecting from time to time on [Medium](https://gongster.medium.com/)
 - I obtained my glider pilot license at age 15 (the summer that I fell in love with aviation)
 - I really enjoy playing badminton (was varsity level in high school)
@@ -16,7 +15,7 @@ I'm a Software Engineering student at the University of Waterloo who really enjo
 [<img align="left" alt="stevengong.me" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@gongster | Medium" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Steven Gong | Instagram" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-I love meeting people and striking up new conversations. I encourage you to invite me to a coffee chat :))
+I love meeting people and striking up new conversations, I am always open to a coffee chat :))
 <br />
 
 ### Languages and Tools
