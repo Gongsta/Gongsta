@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/xTiTnA6KByRzAnnEwE/giphy.gif" width="220"/>
 
-## Hi there, I'm [Steven][website] 👋
+## Hi there, I'm Steven 👋
 I'm a Software Engineering student at the University of Waterloo who really enjoys solving difficult engineering problems at the intersections of **software, AI and robotics**. 
 - Currently, I am heavily involved in the [UWaterloo Robotics Team][UWRT] building **next-generation Mars rovers** as well as the [Waterloo Aviation Robotics Team][WARG] building **autonomous drones**
 - I'm the founder of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students
