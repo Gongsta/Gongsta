@@ -2,8 +2,14 @@
 
 ## Hi there, I'm Steven 👋
 I'm a Software Engineering student at the University of Waterloo who really enjoys solving difficult engineering problems at the intersections of **software, AI and robotics**. 
-- Currently, I am heavily involved in the [UWaterloo Robotics Team][UWRT] building **next-generation Mars rovers** as well as the [Waterloo Aviation Robotics Team][WARG] building **autonomous drones**
-- I'm the founder of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students
+- Currently, I am in my university's self-driving car [team][WATonomous] as a Perception Lead primarily working on 3D Object Detection and Tracking
+- I am working under professor Yash Pant researching autonomous racing using the [F1TENTH](https://f1tenth.org/) platform
+- I am developing a [Poker AI](https://github.com/Gongsta/Poker-AI) that uses Counterfactual Regret Minimization (CFR) to solve imperfect information games
+
+### Past
+- I interned at [Ericsson](https://www.ericsson.com) doing 5G software development and applied reinforcement learning approaches for antenna calibration
+- I was heavily involved in the [UWaterloo Robotics Team][UWRT] building **next-generation Mars rovers** as well as the [Waterloo Aviation Robotics Team][WARG] building **autonomous drones**
+- I founded of a nonprofit called [Kurius][kurius] that organizes free coding events for 4000+ Canadian high school students
 
 ### Fun Facts
 - I enjoy writing and reflecting from time to time on [Medium](https://gongster.medium.com/)
@@ -40,13 +46,13 @@ I love meeting people and striking up new conversations, I am always open to a c
   <p align="center">
     <img alt="Gongsta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gongsta&show_icons=true&hide_border=true" />
   </p>
-
 </details>
 
 [website]: https://stevengong.me
 [kurius]: https://kurius.ca
 [UWRT]: https://www.uwaterloorobotics.com/
 [WARG]: https://github.com/UWARG/ZeroPilot-SW
+[WATonomous]: https://watonomous.ca/
 
 [medium]: https://medium.com/@gongster
 [instagram]: https://instagram.com/stevengongg
