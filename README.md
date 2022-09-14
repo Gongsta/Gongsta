@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/xTiTnA6KByRzAnnEwE/giphy.gif" width="220"/>
+<img align="right" src="https://media.giphy.com/media/xTiTnA6KByRzAnnEwE/giphy.gif" width="300"/>
 
 ## Hi there, I'm Steven 👋
 I'm a Software Engineering student at the University of Waterloo who really enjoys solving difficult engineering problems at the intersections of **software, AI and robotics**. 
