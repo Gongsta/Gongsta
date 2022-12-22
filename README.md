@@ -18,7 +18,7 @@ I'm a Software Engineering student at the University of Waterloo who really enjo
 
 ### Connect with me 
 [<img align="left" alt="Steven Gong | LinkedIn" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="stevengong.me" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="stevengong.co" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="@gongster | Medium" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Steven Gong | Instagram" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 I love meeting people and striking up new conversations, I am always open to a coffee chat :))
@@ -48,7 +48,7 @@ I love meeting people and striking up new conversations, I am always open to a c
   </p>
 </details>
 
-[website]: https://stevengong.me
+[website]: https://stevengong.co
 [kurius]: https://kurius.ca
 [UWRT]: https://www.uwaterloorobotics.com/
 [WARG]: https://github.com/UWARG/ZeroPilot-SW
